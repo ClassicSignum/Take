@@ -1,0 +1,2 @@
+# Take
+responsive photography page
