@@ -1,0 +1,222 @@
+*{
+	margin: 0;
+	outline: 0;
+	padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p,a,ul,li{
+	margin: 0;
+	outline: 0;
+	padding: 0;
+}
+ul,li{
+	list-style: none;
+}
+a,a:hover{
+	text-decoration: none;
+}
+img{
+	border: none;
+	vertical-align: middle;
+}
+
+/*common css ends*/
+
+/*header psrt starts*/
+.header-part{
+	background: url(../images/takingH.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.header-part .header-logo a{
+	display: inline-block;
+}
+.header-part h4{
+	display: inline-block;
+	color: #fff;
+	font-style: italic;
+	font-style: 21px;
+	padding-left: 5px;
+}
+.header-part .header-logo{
+	padding-top: 56px;
+	/*padding-left: 120px;*/
+}
+.header-part .header-items{
+	/*padding-left: 120px;*/
+	padding-top: 354px;	
+	padding-bottom: 650px;
+}
+.header-part h1{
+	font-size: 60px;
+}
+.header-part h5{
+	font-size: 14px;
+	padding-top: 22px;
+	line-height: 27px;
+}
+.header-part{
+	
+}
+/*header psrt ends*/
+
+/*starts new part starts*/
+.start-new{
+
+}
+.start-new .phone-part{
+	/*margin-top: -690px;
+	margin-right: -88px;*/
+}
+.start-new .phone-part img{
+	height: 950px;
+}
+.start-new .row .col-md-12 p{
+	color: #959595;
+}
+.start-new h2{
+	margin-top: -100px;
+	padding-bottom: 40px;
+	font-weight: 300;
+}
+.start-new .row .col-md-12{
+	padding-bottom: 35px;
+}
+.start-new .phone-part{
+	
+}
+/*starts new part ends*/
+
+/*about ourself starts*/
+.about-part .design{
+	background: url(../images/about-3.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.about-part .design-1{
+	padding-left: 30px;
+	padding-top: 30px;
+}
+.about-part .design-1 h1{
+	font-size: 30px;
+}
+.about-part .design-1 h4{
+	padding-bottom: 35px;
+}
+
+.about-part .design-1 p{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.about-part .build{
+	background: url(../images/about-2.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.about-part .client{
+	background: url(../images/about.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*.about-part .sign-up .design-1 p{
+	padding-bottom: 55px;
+}*/
+.about-part .sign-up{
+	background: url(../images/about-4.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.about-part .perfect{
+	background: url(../images/about-5.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*about ourself ends*/
+
+/*details part starts*/
+.dt-part h1{
+	font-size: 35px;
+	padding-top: 95px;
+	padding-bottom: 65px;
+}
+.dt-part p{
+	padding-bottom: 157px;
+	color: #959595;
+}
+.dt-part h5{
+	padding-bottom: 22px;
+
+}
+
+/*details part ends*/
+
+/*more power part starts*/
+.power-part{
+	background: url(../images/power.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.power-part h1{
+	font-size: 60px;
+	padding-top: 450px;
+	padding-bottom: 40px;
+}
+.power-part p{
+	padding-bottom: 26px;
+}
+.power-part h4{
+	padding-bottom: 135px;
+}
+.power-part{
+	
+}
+/*more power part ends*/
+
+/*reason part starts*/
+.rs-part h1{
+	padding-top: 122px;
+	padding-bottom: 60px;
+	font-size: 35px;
+}
+.rs-part .row h4{
+	padding-bottom: 25px;
+}
+.rs-part .row p{
+	padding-bottom: 165px;
+
+}
+.rs-part{
+	background: #82ca9c;
+}
+/*reason part ends*/
+
+/*footer part starts*/
+.f-part .left h5{
+	padding-top: 140px;
+	padding-bottom: 30px;
+}
+.f-part .left p{
+	padding-bottom: 50px;
+}
+.f-part .left .row h6{
+	padding-bottom: 30px;
+}
+.f-part{
+	background: #192431;
+}
+.f-part .right h5{
+	padding-top: 140px;
+	padding-bottom: 28px;
+}
+.f-part .right p{
+	padding-top: 18px;
+	color: #57697f;
+}
+/*footer part ends*/
